@@ -2,3 +2,4 @@ Initial commit
 Input fields test
 Input fields test 2
 New columns test 1
+New columns test 2
