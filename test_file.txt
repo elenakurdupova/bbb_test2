@@ -4,3 +4,4 @@ Input fields test 2
 New columns test 1
 New columns test 2
 New columns test 3
+Test last commint column
